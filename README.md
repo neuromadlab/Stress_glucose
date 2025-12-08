@@ -1,4 +1,4 @@
-# Higher Glucose Levels Buffer Against Everyday Stress Load
+# Higher glucose levels buffer against everyday stress load
 
 ## Authors
 - Madeleine Kördel
