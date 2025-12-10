@@ -12,7 +12,7 @@
 
 ## Overview
 
-This repository contains the R workflow used to compute the linear mixed-effects models for the Glucose ↔︎ Stress project, as well as the corresponding figures of the manuscript. The analysis examines the relationship between continuous glucose monitoring data and ecological momentary assessments (EMA) of stress and glucose.
+This repository contains the MATLAB code for the preprocessing of the CGM data for the Glucose ↔︎ Stress project, the R workflow used to compute the linear mixed-effects models, as well as the corresponding figures of the manuscript. The analysis examines the relationship between continuous glucose monitoring data and ecological momentary assessments (EMA) of stress and glucose.
 
 ---
 
