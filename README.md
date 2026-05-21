@@ -28,7 +28,7 @@ This repository contains the R workflow used to compute the linear mixed-effects
 
 ### Scripts
 
-- `TUE009_analysis_clean.R` — Main analysis script containing:
+- `Stress_Glu.R` — Main analysis script containing:
   - Data preprocessing and variable creation
   - Sample description and demographic tests
   - Correlational analyses
