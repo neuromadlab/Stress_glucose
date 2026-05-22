@@ -199,7 +199,6 @@ estIVglu ~ fbTime_col * scale(StressDeriv) +
 estIVglu ~ fbTime_col * scale(StressDeriv) + cEMA_h +
            (1 + fbTime_col + scale(StressDeriv) + cEMA_h | id)
 ```
-*Uses `nloptwrap` optimizer with relaxed convergence tolerances*
 
 **fm_3c** — Time of day associated with stress derivative (Figure 4d):
 ```r
