@@ -20,7 +20,7 @@ This repository contains the R workflow used to compute the linear mixed-effects
 
 ### Data Files
 
-- `TUE009_Glucose_VAS_Blood.xlsx` — Main dataframe: EMA and CGM data merged at the observation level
+- `TUE009_Glucose_VAS_Blood.xlsx` — Main dataframe: EMA and CGM data
 - `TUE009_GCM_VAS_Stress_12h.csv` — CGM data time-locked to EMA assessments (12h pre-EMA window)
 - `TUE009_Influenca_data_runs_clean_Glu_LR.csv` — EMA dataframe used for plotting only
 - `TUE009_CGM_VAS_Stress.csv` — Sensitivity analysis: CGM data with alternative (variable) pre-EMA binning
