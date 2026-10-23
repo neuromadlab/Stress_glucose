@@ -939,7 +939,7 @@ plot4b <-
 # Panel c: Early glucose differences predict later stress changes
 plot4c <-
   ggplot(aes(y = StressDeriv, x = estIVglu),
-         data = subset(dT, bTime == 1)) +
+         data = subset(dT, bTime == 4)) +
   stat_density_2d(geom = "raster", aes(fill = after_stat(ndensity)),
                   contour = FALSE, n = 500) +
   stat_smooth(linewidth = 0.5, aes(group = id),
@@ -961,7 +961,7 @@ plot4c <-
   ) +
   ggtitle("Early differences in glucose", "precipitate changes in stress") +
   ylab("Changes in stress [deriv]") +
-  xlab("Glucose levels [12 to 10h before EMA]")
+  xlab("Glucose levels [6 to 7.5h before EMA]")
 
 # Panel d: Time of day associated with stress derivative
 plot4d <-
