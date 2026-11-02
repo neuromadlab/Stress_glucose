@@ -1,4 +1,4 @@
-# Higher glucose levels are associated with lower everyday stress load
+# Daily stress load is lower at higher glucose levels#
 
 ## Authors
 - Madeleine Kördel
