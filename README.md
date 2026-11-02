@@ -1,4 +1,4 @@
-# Daily stress load is lower at higher glucose levels#
+# Daily stress load is lower at higher glucose levels
 
 ## Authors
 - Madeleine Kördel
